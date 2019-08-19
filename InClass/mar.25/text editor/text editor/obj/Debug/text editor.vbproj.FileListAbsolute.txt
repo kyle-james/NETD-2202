@@ -1,0 +1,11 @@
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\bin\Debug\text editor.exe.config
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\bin\Debug\text editor.exe
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\bin\Debug\text editor.pdb
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\bin\Debug\text editor.xml
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\obj\Debug\text editor.vbprojResolveAssemblyReference.cache
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\obj\Debug\text_editor.Resources.resources
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\obj\Debug\text editor.vbproj.GenerateResource.Cache
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\obj\Debug\text editor.exe
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\obj\Debug\text editor.xml
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\obj\Debug\text editor.pdb
+C:\Users\kulal\OneDrive - Durham College\School Work\NETD-2202\InClass\mar.25\text editor\text editor\obj\Debug\text_editor.textEditor.resources

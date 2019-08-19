@@ -1,0 +1,11 @@
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\bin\Debug\NETD-Lab1.exe.config
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\bin\Debug\NETD-Lab1.exe
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\bin\Debug\NETD-Lab1.pdb
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\bin\Debug\NETD-Lab1.xml
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\obj\Debug\NETD-Lab1.vbprojResolveAssemblyReference.cache
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\obj\Debug\NETD_Lab1.CalculatorWindow.resources
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\obj\Debug\NETD_Lab1.Resources.resources
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\obj\Debug\NETD-Lab1.vbproj.GenerateResource.Cache
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\obj\Debug\NETD-Lab1.exe
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\obj\Debug\NETD-Lab1.xml
+c:\users\kulal\onedrive\documents\visual studio 2015\Projects\NETD\NETD-Lab1\NETD-Lab1\obj\Debug\NETD-Lab1.pdb
